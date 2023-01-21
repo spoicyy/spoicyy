@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, I'm Monika 🌠
 
 - 🔭 I’m currently working on ... Developing a **Programming Portfolio**!
 - 🌱 I’m currently learning ... **C#**, **Python**, and **MIPS**
