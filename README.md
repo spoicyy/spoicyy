@@ -1,5 +1,5 @@
 # Hello, I'm Monika 🌠
-## A first year student at Trent University, in the Computer Science program. 💻
+## A second year student at Trent University, in the Computer Science program. 💻
 
 - 🔭 I’m currently working on ... Developing a **Programming Portfolio**!
 - 🌱 I’m currently learning ... **C#**, **Python**, and **MIPS**.
