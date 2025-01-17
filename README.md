@@ -1,5 +1,5 @@
 # Hello, I'm Monika 🌠
-## A full-time student at Trent University, in the Computer Science program. 💻
+## A full-time student in the Computer Science program at Toronto Metropolitan University. 💻
 
 - 🔭 I’m currently working on ... Developing a **Programming Portfolio**!
 - 🌱 I’m currently learning ... **C#**, **Python**, and **MIPS**.
